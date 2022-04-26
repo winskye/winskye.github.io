@@ -2,112 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://winskye.github.io/</loc>
     <lastmod>2022-04-26T11:36:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://winskye.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/"
+                href="https://winskye.github.io/"
                 />
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://winskye.github.io/post/</loc>
     <lastmod>2022-04-26T11:36:50+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/test/</loc>
+    <loc>https://winskye.github.io/p/test/</loc>
     <lastmod>2022-04-26T11:36:50+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/page/</loc>
+    <loc>https://winskye.github.io/page/</loc>
     <lastmod>2022-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/page/"
+                href="https://winskye.github.io/en/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/page/"
+                href="https://winskye.github.io/page/"
                 />
   </url><url>
-    <loc>https://example.com/%E9%97%9C%E6%96%BC/</loc>
+    <loc>https://winskye.github.io/%E9%97%9C%E6%96%BC/</loc>
     <lastmod>2022-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/about/"
+                href="https://winskye.github.io/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/%E9%97%9C%E6%96%BC/"
+                href="https://winskye.github.io/%E9%97%9C%E6%96%BC/"
                 />
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://winskye.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/archives/"
+                href="https://winskye.github.io/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/archives/"
+                href="https://winskye.github.io/archives/"
                 />
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://winskye.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/"
+                href="https://winskye.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/categories/"
+                href="https://winskye.github.io/categories/"
                 />
   </url><url>
-    <loc>https://example.com/categories/investment/</loc>
+    <loc>https://winskye.github.io/categories/investment/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://winskye.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="https://winskye.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/tags/"
+                href="https://winskye.github.io/tags/"
                 />
   </url><url>
-    <loc>https://example.com/%E9%80%A3%E7%B5%90/</loc>
+    <loc>https://winskye.github.io/%E9%80%A3%E7%B5%90/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/links/"
+                href="https://winskye.github.io/en/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/%E9%80%A3%E7%B5%90/"
+                href="https://winskye.github.io/%E9%80%A3%E7%B5%90/"
                 />
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://winskye.github.io/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/search/"
+                href="https://winskye.github.io/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/search/"
+                href="https://winskye.github.io/search/"
                 />
   </url>
 </urlset>
