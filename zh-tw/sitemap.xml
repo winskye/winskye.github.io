@@ -34,7 +34,7 @@
                 href="https://winskye.github.io/page/"
                 />
   </url><url>
-    <loc>https://winskye.github.io/%E9%97%9C%E6%96%BC/</loc>
+    <loc>https://winskye.github.io/about/</loc>
     <lastmod>2022-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -44,7 +44,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://winskye.github.io/%E9%97%9C%E6%96%BC/"
+                href="https://winskye.github.io/about/"
                 />
   </url><url>
     <loc>https://winskye.github.io/archives/</loc>
@@ -86,7 +86,7 @@
                 href="https://winskye.github.io/tags/"
                 />
   </url><url>
-    <loc>https://winskye.github.io/%E9%80%A3%E7%B5%90/</loc>
+    <loc>https://winskye.github.io/links/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -95,7 +95,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://winskye.github.io/%E9%80%A3%E7%B5%90/"
+                href="https://winskye.github.io/links/"
                 />
   </url><url>
     <loc>https://winskye.github.io/search/</loc>
