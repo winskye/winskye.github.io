@@ -364,47 +364,33 @@
      
     
         
-    <script src="https://utteranc.es/client.js" 
-        repo="winskye/comments-winskye.github.io"
-        issue-term="pathname"
-        
-        label="Comments"
-        
-        crossorigin="anonymous"
-        async
-        >
-</script>
-
-<style>
-    .utterances {
-        max-width: unset;
-    }
-</style>
-
+    <div id="remark42"></div>
 <script>
-    function setUtterancesTheme(theme) {
-        let utterances = document.querySelector('.utterances iframe');
-        if (utterances) {
-            utterances.contentWindow.postMessage(
-                {
-                    type: 'set-theme',
-                    theme: `github-${theme}`
-                },
-                'https://utteranc.es'
-            );
-        }
-    }
+    var remark_config = {
+        host: "https:\/\/remark42.example.com",
+        site_id: 'winskye',
+        components: ['embed'],
+        url: "https:\/\/winskye.github.io\/en\/about\/",
+        max_shown_comments:  15 ,
+        theme: document.documentElement.dataset.scheme,
+        page_title: 'About',
+        locale: 'zh',
+        show_email_subscription:  true 
+    };
 
-    addEventListener('message', event => {
-        if (event.origin !== 'https://utteranc.es') return;
-        setUtterancesTheme(document.documentElement.dataset.scheme)
-    });
+    (function (c) {
+        for (var i = 0; i < c.length; i++) {
+            var d = document, s = d.createElement('script');
+            s.src = remark_config.host + '/web/' + c[i] + '.js';
+            s.defer = true;
+            (d.head || d.body).appendChild(s);
+        }
+    })(remark_config.components || ['embed']);
 
     window.addEventListener('onColorSchemeChange', (e) => {
-        setUtterancesTheme(e.detail)
+        window.REMARK42.changeTheme(e.detail);
     })
 </script>
-
 
     
 
