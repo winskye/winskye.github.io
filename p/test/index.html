@@ -354,35 +354,46 @@
      
     
         
-    <div id="gitalk-container"></div>
-<link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/gitalk@1.7.2/dist/gitalk.css"
-/>
-<script src="https://cdn.jsdelivr.net/npm/gitalk@1.7.2/dist/gitalk.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/blueimp-md5@2.18.0/js/md5.min.js"></script>
-<script>
-    const gitalk = new Gitalk({
-        clientID: "04a471a6e6684cea7ca1",
-        clientSecret: "8c91db28fc7adbeefaaf80e3cdbc0b33a72806a5",
-        repo: "comments-winskye.github.io",
-        owner: "winskye",
-        admin: ["winskye"],
-        distractionFreeMode: false, 
-        id: md5(location.pathname), 
-    });
-    (function () {
-        if (
-            ["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1
-        ) {
-            document.getElementById("gitalk-container").innerHTML =
-                "Gitalk comments not available by default when the website is previewed locally.";
-            return;
-        }
-        gitalk.render("gitalk-container");
-    })();
+    <script src="https://utteranc.es/client.js" 
+        repo="winskye/comments-winskye.github.io"
+        issue-term="pathname"
+        
+        label="Comments"
+        
+        crossorigin="anonymous"
+        async
+        >
 </script>
 
+<style>
+    .utterances {
+        max-width: unset;
+    }
+</style>
+
+<script>
+    function setUtterancesTheme(theme) {
+        let utterances = document.querySelector('.utterances iframe');
+        if (utterances) {
+            utterances.contentWindow.postMessage(
+                {
+                    type: 'set-theme',
+                    theme: `github-${theme}`
+                },
+                'https://utteranc.es'
+            );
+        }
+    }
+
+    addEventListener('message', event => {
+        if (event.origin !== 'https://utteranc.es') return;
+        setUtterancesTheme(document.documentElement.dataset.scheme)
+    });
+
+    window.addEventListener('onColorSchemeChange', (e) => {
+        setUtterancesTheme(e.detail)
+    })
+</script>
 
 
     
