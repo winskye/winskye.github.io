@@ -21,9 +21,6 @@
     <loc>https://winskye.github.io/p/test3/</loc>
     <lastmod>2022-07-22T11:36:50+08:00</lastmod>
   </url><url>
-    <loc>https://winskye.github.io/p/test/</loc>
-    <lastmod>2022-04-26T11:36:50+08:00</lastmod>
-  </url><url>
     <loc>https://winskye.github.io/page/</loc>
     <lastmod>2022-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -88,6 +85,8 @@
                 hreflang="zh-tw"
                 href="https://winskye.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://winskye.github.io/p/%E7%94%A8rbookdown%E5%AF%AB%E7%B7%9A%E4%B8%8A%E9%9B%BB%E5%AD%90%E6%9B%B8/</loc>
   </url><url>
     <loc>https://winskye.github.io/links/</loc>
     <xhtml:link
