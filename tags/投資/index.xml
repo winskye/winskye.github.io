@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Winskye</title>
-        <link>https://winskye.github.io/</link>
-        <description>Recent content on Winskye</description>
+        <title>投資 on Winskye</title>
+        <link>https://winskye.github.io/tags/%E6%8A%95%E8%B3%87/</link>
+        <description>Recent content in 投資 on Winskye</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Sat, 23 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://winskye.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>關於</title>
-        <link>https://winskye.github.io/about/</link>
-        <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://winskye.github.io/about/</guid>
-        <description>&lt;p&gt;Test&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Sat, 08 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://winskye.github.io/tags/%E6%8A%95%E8%B3%87/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>月入三萬的收銀員存款如何大勝月入八萬的副教授</title>
         <link>https://winskye.github.io/p/%E6%9C%88%E5%85%A5%E4%B8%89%E8%90%AC%E7%9A%84%E6%94%B6%E9%8A%80%E5%93%A1%E5%AD%98%E6%AC%BE%E5%A6%82%E4%BD%95%E5%A4%A7%E5%8B%9D%E6%9C%88%E5%85%A5%E5%85%AB%E8%90%AC%E7%9A%84%E5%89%AF%E6%95%99%E6%8E%88/</link>
         <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
@@ -149,30 +140,6 @@
     &gt;提早退休的答客問&amp;ndash;Part 2 關於理財與投資&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        </item>
-        <item>
-        <title>所有文章</title>
-        <link>https://winskye.github.io/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://winskye.github.io/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>連結</title>
-        <link>https://winskye.github.io/links/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://winskye.github.io/links/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>蒐尋</title>
-        <link>https://winskye.github.io/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://winskye.github.io/search/</guid>
-        <description></description>
         </item>
         
     </channel>
